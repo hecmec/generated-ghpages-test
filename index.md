@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
+title: Das ist der Title meines Sites
 ---
 
-Das ist die erste Zeile des Blogs.
+Das ist die erste Zeile in index
 
