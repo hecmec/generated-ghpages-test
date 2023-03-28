@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "Cookies sind lecker"
+date: 2023-03-26
 ---
 
 # Cookies sind lecker
